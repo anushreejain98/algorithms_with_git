@@ -25,7 +25,8 @@ else "Loop starting node is " with starting node data.
 ```
 
 ### Sample Output
-```Loop starting node is 10
+```
+Loop starting node is 10
 ```
 ### Implemented in:
 - [C++](detect_loop_in_linkedlist.cpp)
