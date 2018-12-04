@@ -21,7 +21,7 @@ else "Loop starting node is " with starting node data.
 
 ### Sample Input
 ```
-40 25 10 4 8 
+Input is supplied through main driver function.
 ```
 
 ### Sample Output
